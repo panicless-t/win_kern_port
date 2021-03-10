@@ -10,8 +10,8 @@ ALL WINDOWS KERNEL VERSIONS ARE CURRENTLY SUPPORTED THIS IS 0day.
 # Writeup
 Soon i'll write it up.
 
-# How to build it
-We don't like to commit Xcode project file. Create your own XCode project, add files and call "cicuta_virosa" function.
+# Where is the project files?
+just shared csharp files you need to add it to your project.
 
 # Credits
 - Me
