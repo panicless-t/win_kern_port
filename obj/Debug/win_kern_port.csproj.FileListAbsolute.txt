@@ -1,0 +1,7 @@
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\bin\Debug\win_kern_port.exe.config
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\bin\Debug\win_kern_port.exe
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\bin\Debug\win_kern_port.pdb
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\obj\Debug\win_kern_port.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\obj\Debug\win_kern_port.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\obj\Debug\win_kern_port.exe
+C:\Users\Ali\source\repos\win_kern_port\win_kern_port\obj\Debug\win_kern_port.pdb
